@@ -1,0 +1,69 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Build",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": false,
+      "cwd": "/home/alex/astran/Astran/src",
+      "program": "${workspaceFolder}/../build/bin/Astran",
+      "MIMode": "gdb",
+      "miDebuggerPath": "/usr/bin/gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ],
+      "preLaunchTask": "C/C++: cpp build active file"
+    },
+    {
+      "name": "Shell",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [
+        "--shell",
+        "<../build/bin/Command.run"
+      ],
+      "stopAtEntry": false,
+      "externalConsole": false,
+      "cwd": "/home/alex/astran/Astran/src",
+      "program": "${workspaceFolder}/../build/bin/Astran",
+      "MIMode": "gdb",
+      "miDebuggerPath": "/usr/bin/gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": false
+        }
+      ]
+    },
+    {
+      "name": "Shell_script",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [
+        "--shell",
+        "<../build/bin/script.run"
+      ],
+      "stopAtEntry": false,
+      "externalConsole": false,
+      "cwd": "/home/alex/astran/Astran/src",
+      "program": "${workspaceFolder}/../build/bin/Astran",
+      "MIMode": "gdb",
+      "miDebuggerPath": "/usr/bin/gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": false
+        }
+      ]
+    }
+  ]
+}

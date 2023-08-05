@@ -1,0 +1,6 @@
+HYP_COMPLEX11_06W 280 0.7      0 x 0       0
+
+HYP_COMPLEX11_06W 280 0.65      0 x 0       0
+
+HYP_COMPLEX11_06W 560 0.65      0 x 0       0
+

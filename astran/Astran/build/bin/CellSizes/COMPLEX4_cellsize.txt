@@ -1,0 +1,256 @@
+COMPLEX4 7 0.7      3.2 x 1.4
+
+COMPLEX4 10 0.7      3.08 x 1.4
+
+COMPLEX4 14 0.7      3.1 x 1.4
+
+COMPLEX4 20 0.7      3.01 x 1.4
+
+COMPLEX4 28 0.7      3 x 1.4
+
+COMPLEX4 35 0.7      3 x 1.4
+
+COMPLEX4 70 0.7      3 x 1.4
+
+COMPLEX4 140 0.7      3 x 1.4
+
+COMPLEX4 7 0.65      0 x 0
+
+COMPLEX4 10 0.65      3.08 x 1.4
+
+COMPLEX4 14 0.65      0 x 0
+
+COMPLEX4 20 0.65      0 x 0
+
+COMPLEX4 28 0.65      0 x 0
+
+COMPLEX4 35 0.65      0 x 0
+
+COMPLEX4 70 0.65      0 x 0
+
+COMPLEX4 140 0.65      0 x 0
+
+COMPLEX4 7 0.75      3.2 x 1.4
+
+COMPLEX4 10 0.75      3.08 x 1.4
+
+COMPLEX4 14 0.75      3.1 x 1.4
+
+COMPLEX4 20 0.75      3.01 x 1.4
+
+COMPLEX4 28 0.75      3 x 1.4
+
+COMPLEX4 35 0.75      3 x 1.4
+
+COMPLEX4 70 0.75      3 x 1.4
+
+COMPLEX4 140 0.75      3 x 1.4
+
+COMPLEX4 7 0.6      3 x 1.4
+
+COMPLEX4 10 0.6      3.08 x 1.4
+
+COMPLEX4 14 0.6      3.1 x 1.4
+
+COMPLEX4 20 0.6      3.01 x 1.4
+
+COMPLEX4 28 0.6      3.05 x 1.4
+
+COMPLEX4 35 0.6      3 x 1.4
+
+COMPLEX4 70 0.6      3.04 x 1.4
+
+COMPLEX4 140 0.6      3.02 x 1.4
+
+COMPLEX4 7 0.8      0 x 0
+
+COMPLEX4 10 0.8      4.06 x 1.4
+
+COMPLEX4 14 0.8      0 x 0
+
+COMPLEX4 20 0.8      0 x 0
+
+COMPLEX4 28 0.8      0 x 0
+
+COMPLEX4 35 0.8      0 x 0
+
+COMPLEX4 70 0.8      0 x 0
+
+COMPLEX4 140 0.8      0 x 0
+=============================
+COMPLEX4 7 0.7      3.2 x 1.4
+
+COMPLEX4 10 0.7      3.08 x 1.4
+
+COMPLEX4 14 0.7      3.1 x 1.4
+
+COMPLEX4 20 0.7      3.01 x 1.4
+
+COMPLEX4 28 0.7      3 x 1.4
+
+COMPLEX4 35 0.7      3 x 1.4
+
+COMPLEX4 70 0.7      3 x 1.4
+
+COMPLEX4 140 0.7      3 x 1.4
+
+COMPLEX4 7 0.65      2.2 x 1.4
+
+COMPLEX4 10 0.65      2.1 x 1.4
+
+COMPLEX4 14 0.65      2.1 x 1.4
+
+COMPLEX4 20 0.65      2.1 x 1.4
+
+COMPLEX4 28 0.65      0 x 0
+
+COMPLEX4 35 0.65      0 x 0
+
+COMPLEX4 70 0.65      0 x 0
+
+COMPLEX4 140 0.65      0 x 0
+
+COMPLEX4 7 0.75      3 x 1.4
+
+COMPLEX4 10 0.75      3.08 x 1.4
+
+COMPLEX4 14 0.75      3 x 1.4
+
+COMPLEX4 20 0.75      3.08 x 1.4
+
+COMPLEX4 28 0.75      3 x 1.4
+
+COMPLEX4 35 0.75      3 x 1.4
+
+COMPLEX4 70 0.75      3 x 1.4
+
+COMPLEX4 140 0.75      3 x 1.4
+
+COMPLEX4 7 0.6      2.6 x 1.4
+
+COMPLEX4 10 0.6      0 x 0
+
+COMPLEX4 14 0.6      0 x 0
+
+COMPLEX4 20 0.6      0 x 0
+
+COMPLEX4 28 0.6      2.05 x 1.4
+
+COMPLEX4 35 0.6      2.08 x 1.4
+
+COMPLEX4 70 0.6      2.06 x 1.4
+
+COMPLEX4 140 0.6      2.05 x 1.4
+
+COMPLEX4 7 0.8      3 x 1.4
+
+COMPLEX4 10 0.8      3.08 x 1.4
+
+COMPLEX4 14 0.8      3 x 1.4
+
+COMPLEX4 20 0.8      3.01 x 1.4
+
+COMPLEX4 28 0.8      3 x 1.4
+
+COMPLEX4 35 0.8      3 x 1.4
+
+COMPLEX4 70 0.8      3 x 1.4
+
+COMPLEX4 140 0.8      3 x 1.4
+========================================
+COMPLEX4 7 0.7      2.2 x 1.4       3.08
+
+COMPLEX4 10 0.7      2.1 x 1.4       2.94
+
+COMPLEX4 14 0.7      2.1 x 1.4       2.94
+
+COMPLEX4 20 0.7      2.1 x 1.4       2.94
+
+COMPLEX4 28 0.7      2.05 x 1.4       2.87
+
+COMPLEX4 35 0.7      2.08 x 1.4       2.912
+
+COMPLEX4 70 0.7      2.06 x 1.4       2.884
+
+COMPLEX4 140 0.7      2.05 x 1.4       2.87
+
+COMPLEX4 7 0.65      2.2 x 1.4       3.08
+
+COMPLEX4 10 0.65      2.1 x 1.4       2.94
+
+COMPLEX4 14 0.65      2.1 x 1.4       2.94
+
+COMPLEX4 20 0.65      2.1 x 1.4       2.94
+
+COMPLEX4 28 0.65      2.05 x 1.4       2.87
+
+COMPLEX4 35 0.65      2.08 x 1.4       2.912
+
+COMPLEX4 70 0.65      2.06 x 1.4       2.884
+
+COMPLEX4 140 0.65      2.05 x 1.4       2.87
+
+COMPLEX4 7 0.75      2.2 x 1.4       3.08
+
+COMPLEX4 10 0.75      2.1 x 1.4       2.94
+
+COMPLEX4 14 0.75      2.1 x 1.4       2.94
+
+COMPLEX4 20 0.75      2.1 x 1.4       2.94
+
+COMPLEX4 28 0.75      2.05 x 1.4       2.87
+
+COMPLEX4 35 0.75      2.08 x 1.4       2.912
+
+COMPLEX4 70 0.75      2.06 x 1.4       2.884
+
+COMPLEX4 140 0.75      2.05 x 1.4       2.87
+
+COMPLEX4 7 0.6      2.2 x 1.4       3.08
+
+COMPLEX4 10 0.6      2.1 x 1.4       2.94
+
+COMPLEX4 14 0.6      2.1 x 1.4       2.94
+
+COMPLEX4 20 0.6      2.1 x 1.4       2.94
+
+COMPLEX4 28 0.6      2.05 x 1.4       2.87
+
+COMPLEX4 35 0.6      2.08 x 1.4       2.912
+
+COMPLEX4 70 0.6      2.06 x 1.4       2.884
+
+COMPLEX4 140 0.6      2.05 x 1.4       2.87
+
+COMPLEX4 7 0.8      2.2 x 1.4       3.08
+
+COMPLEX4 10 0.8      2.1 x 1.4       2.94
+
+COMPLEX4 14 0.8      2.1 x 1.4       2.94
+
+COMPLEX4 20 0.8      2.1 x 1.4       2.94
+
+COMPLEX4 28 0.8      2.1 x 1.4       2.94
+
+COMPLEX4 35 0.8      2.08 x 1.4       2.912
+
+COMPLEX4 70 0.8      2.06 x 1.4       2.884
+
+COMPLEX4 140 0.8      2.05 x 1.4       2.87
+
+COMPLEX4 7 0.55      2.2 x 1.4       3.08
+
+COMPLEX4 10 0.55      2.1 x 1.4       2.94
+
+COMPLEX4 14 0.55      2.1 x 1.4       2.94
+
+COMPLEX4 20 0.55      2.1 x 1.4       2.94
+
+COMPLEX4 28 0.55      2.05 x 1.4       2.87
+
+COMPLEX4 35 0.55      2.08 x 1.4       2.912
+
+COMPLEX4 70 0.55      2.06 x 1.4       2.884
+
+COMPLEX4 140 0.55      2.05 x 1.4       2.87
+

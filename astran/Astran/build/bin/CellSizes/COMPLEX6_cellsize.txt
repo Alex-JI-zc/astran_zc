@@ -1,0 +1,190 @@
+COMPLEX6 7 0.7      2.8 x 1.4
+
+COMPLEX6 10 0.7      2.8 x 1.4
+
+COMPLEX6 14 0.7      2.8 x 1.4
+
+COMPLEX6 20 0.7      2.8 x 1.4
+
+COMPLEX6 28 0.7      2.8 x 1.4
+
+COMPLEX6 35 0.7      2.8 x 1.4
+
+COMPLEX6 70 0.7      2.78 x 1.4
+
+COMPLEX6 140 0.7      2.77 x 1.4
+
+COMPLEX6 7 0.65      3 x 1.4
+
+COMPLEX6 10 0.65      2.8 x 1.4
+
+COMPLEX6 14 0.65      2.9 x 1.4
+
+COMPLEX6 20 0.65      2.8 x 1.4
+
+COMPLEX6 28 0.65      0 x 0
+
+COMPLEX6 35 0.65      0 x 0
+
+COMPLEX6 70 0.65      0 x 0
+
+COMPLEX6 140 0.65      0 x 0
+
+COMPLEX6 7 0.75      2.8 x 1.4
+
+COMPLEX6 10 0.75      2.8 x 1.4
+
+COMPLEX6 14 0.75      2.8 x 1.4
+
+COMPLEX6 20 0.75      2.8 x 1.4
+
+COMPLEX6 28 0.75      2.8 x 1.4
+
+COMPLEX6 35 0.75      2.8 x 1.4
+
+COMPLEX6 70 0.75      2.78 x 1.4
+
+COMPLEX6 140 0.75      2.77 x 1.4
+
+COMPLEX6 7 0.6      3 x 1.4
+
+COMPLEX6 10 0.6      2.8 x 1.4
+
+COMPLEX6 14 0.6      2.8 x 1.4
+
+COMPLEX6 20 0.6      2.8 x 1.4
+
+COMPLEX6 28 0.6      2.8 x 1.4
+
+COMPLEX6 35 0.6      2.8 x 1.4
+
+COMPLEX6 70 0.6      2.78 x 1.4
+
+COMPLEX6 140 0.6      2.77 x 1.4
+
+COMPLEX6 7 0.8      3 x 1.4
+
+COMPLEX6 10 0.8      2.8 x 1.4
+
+COMPLEX6 14 0.8      2.8 x 1.4
+
+COMPLEX6 20 0.8      2.8 x 1.4
+
+COMPLEX6 28 0.8      2.8 x 1.4
+
+COMPLEX6 35 0.8      2.8 x 1.4
+
+COMPLEX6 70 0.8      2.78 x 1.4
+
+COMPLEX6 140 0.8      2.77 x 1.4
+
+COMPLEX6 280 0.7      2.77 x 1.4
+========================================
+COMPLEX6 7 0.7      2.8 x 1.4       3.92
+
+COMPLEX6 10 0.7      2.8 x 1.4       3.92
+
+COMPLEX6 14 0.7      2.8 x 1.4       3.92
+
+COMPLEX6 20 0.7      2.8 x 1.4       3.92
+
+COMPLEX6 28 0.7      2.8 x 1.4       3.92
+
+COMPLEX6 35 0.7      2.8 x 1.4       3.92
+
+COMPLEX6 70 0.7      2.78 x 1.4       3.892
+
+COMPLEX6 140 0.7      2.81 x 1.4       3.934
+
+COMPLEX6 280 0.7      2.805 x 1.4       3.927
+
+COMPLEX6 7 0.65      2.6 x 1.4       3.64
+
+COMPLEX6 10 0.65      0 x 0       0
+
+COMPLEX6 14 0.65      2.5 x 1.4       3.5
+
+COMPLEX6 20 0.65      2.45 x 1.4       3.43
+
+COMPLEX6 28 0.65      0 x 0       0
+
+COMPLEX6 35 0.65      2.44 x 1.4       3.416
+
+COMPLEX6 70 0.65      0 x 0       0
+
+COMPLEX6 140 0.65      2.41 x 1.4       3.374
+
+COMPLEX6 280 0.65      2.405 x 1.4       3.367
+
+COMPLEX6 7 0.75      3 x 1.4       4.2
+
+COMPLEX6 10 0.75      2.94 x 1.4       4.116
+
+COMPLEX6 14 0.75      2.8 x 1.4       3.92
+
+COMPLEX6 20 0.75      2.8 x 1.4       3.92
+
+COMPLEX6 28 0.75      2.8 x 1.4       3.92
+
+COMPLEX6 35 0.75      2.8 x 1.4       3.92
+
+COMPLEX6 70 0.75      2.78 x 1.4       3.892
+
+COMPLEX6 140 0.75      2.77 x 1.4       3.878
+
+COMPLEX6 280 0.75      2.77 x 1.4       3.878
+
+COMPLEX6 7 0.6      2.6 x 1.4       3.64
+
+COMPLEX6 10 0.6      0 x 0       0
+
+COMPLEX6 14 0.6      2.3 x 1.4       3.22
+
+COMPLEX6 20 0.6      2.45 x 1.4       3.43
+
+COMPLEX6 28 0.6      2.45 x 1.4       3.43
+
+COMPLEX6 35 0.6      2.44 x 1.4       3.416
+
+COMPLEX6 70 0.6      2.42 x 1.4       3.388
+
+COMPLEX6 140 0.6      2.41 x 1.4       3.374
+
+COMPLEX6 280 0.6      0 x 0       0
+
+COMPLEX6 7 0.8      3 x 1.4       4.2
+
+COMPLEX6 10 0.8      2.94 x 1.4       4.116
+
+COMPLEX6 14 0.8      2.8 x 1.4       3.92
+
+COMPLEX6 20 0.8      2.8 x 1.4       3.92
+
+COMPLEX6 28 0.8      2.8 x 1.4       3.92
+
+COMPLEX6 35 0.8      2.8 x 1.4       3.92
+
+COMPLEX6 70 0.8      2.78 x 1.4       3.892
+
+COMPLEX6 140 0.8      2.77 x 1.4       3.878
+
+COMPLEX6 280 0.8      2.77 x 1.4       3.878
+
+COMPLEX6 7 0.55      0 x 0       0
+
+COMPLEX6 10 0.55      2.52 x 1.4       3.528
+
+COMPLEX6 14 0.55      0 x 0       0
+
+COMPLEX6 20 0.55      0 x 0       0
+
+COMPLEX6 28 0.55      0 x 0       0
+
+COMPLEX6 35 0.55      0 x 0       0
+
+COMPLEX6 70 0.55      0 x 0       0
+
+COMPLEX6 140 0.55      0 x 0       0
+
+COMPLEX6 280 0.55      0 x 0       0
+

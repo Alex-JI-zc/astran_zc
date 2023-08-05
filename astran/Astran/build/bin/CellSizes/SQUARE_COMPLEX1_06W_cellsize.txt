@@ -1,0 +1,12 @@
+SQUARE_COMPLEX1_06W 140 0.7      0 x 0       0
+
+SQUARE_COMPLEX1_06W 280 0.7      0 x 0       0
+
+SQUARE_COMPLEX1_06W 560 0.7      5.87 x 1.4       8.218
+
+SQUARE_COMPLEX1_06W 140 0.65      0 x 0       0
+
+SQUARE_COMPLEX1_06W 280 0.65      0 x 0       0
+
+SQUARE_COMPLEX1_06W 560 0.65      0 x 0       0
+

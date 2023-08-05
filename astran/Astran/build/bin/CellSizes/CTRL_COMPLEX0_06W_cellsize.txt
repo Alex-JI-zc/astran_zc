@@ -1,0 +1,60 @@
+CTRL_COMPLEX0_06W 28 0.7      1.1 x 1.4       1.54
+
+CTRL_COMPLEX0_06W 35 0.7      1.12 x 1.4       1.568
+
+CTRL_COMPLEX0_06W 70 0.7      1.1 x 1.4       1.54
+
+CTRL_COMPLEX0_06W 140 0.7      1.1 x 1.4       1.54
+
+CTRL_COMPLEX0_06W 280 0.7      1.1 x 1.4       1.54
+
+CTRL_COMPLEX0_06W 560 0.7      1.1 x 1.4       1.54
+
+CTRL_COMPLEX0_06W 28 0.65      0.75 x 1.4       1.05
+
+CTRL_COMPLEX0_06W 35 0.65      0.76 x 1.4       1.064
+
+CTRL_COMPLEX0_06W 70 0.65      0.74 x 1.4       1.036
+
+CTRL_COMPLEX0_06W 140 0.65      0.74 x 1.4       1.036
+
+CTRL_COMPLEX0_06W 280 0.65      0.735 x 1.4       1.029
+
+CTRL_COMPLEX0_06W 560 0.65      0.735 x 1.4       1.029
+
+CTRL_COMPLEX0_06W 28 0.75      1.1 x 1.4       1.54
+
+CTRL_COMPLEX0_06W 35 0.75      1.12 x 1.4       1.568
+
+CTRL_COMPLEX0_06W 70 0.75      1.1 x 1.4       1.54
+
+CTRL_COMPLEX0_06W 140 0.75      1.1 x 1.4       1.54
+
+CTRL_COMPLEX0_06W 280 0.75      1.1 x 1.4       1.54
+
+CTRL_COMPLEX0_06W 560 0.75      1.1 x 1.4       1.54
+
+CTRL_COMPLEX0_06W 28 0.6      0.75 x 1.4       1.05
+
+CTRL_COMPLEX0_06W 35 0.6      0.76 x 1.4       1.064
+
+CTRL_COMPLEX0_06W 70 0.6      0.74 x 1.4       1.036
+
+CTRL_COMPLEX0_06W 140 0.6      0.74 x 1.4       1.036
+
+CTRL_COMPLEX0_06W 280 0.6      0.735 x 1.4       1.029
+
+CTRL_COMPLEX0_06W 560 0.6      0.735 x 1.4       1.029
+
+CTRL_COMPLEX0_06W 28 0.8      1.1 x 1.4       1.54
+
+CTRL_COMPLEX0_06W 35 0.8      1.12 x 1.4       1.568
+
+CTRL_COMPLEX0_06W 70 0.8      1.1 x 1.4       1.54
+
+CTRL_COMPLEX0_06W 140 0.8      1.1 x 1.4       1.54
+
+CTRL_COMPLEX0_06W 280 0.8      1.1 x 1.4       1.54
+
+CTRL_COMPLEX0_06W 560 0.8      1.1 x 1.4       1.54
+

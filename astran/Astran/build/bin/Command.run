@@ -1,0 +1,60 @@
+set lpsolve "/home/alex/Downloads/gurobi952/linux64/bin/gurobi_cl"
+load technology "/home/alex/astran/Astran/build/Work/tech_freePDK45.rul"
+load netlist "/home/alex/astran/Astran/build/bin/COMPLEX1.sp"
+cellgen select COMPLEX1
+SET GRID 0.005 0.005
+SET ROWHEIGHT 280
+SET NWELLPOS 0.70
+cellgen autoflow 2
+export layout COMPLEX1 /home/alex/astran/Astran/build/bin/Output/COMPLEX1.gds
+exit
+
+AND2X1:
+set lpsolve "/home/alex/Downloads/gurobi952/linux64/bin/gurobi_cl"
+load technology "/home/alex/astran/Astran/build/Work/tech_freePDK45.rul"
+load netlist "/home/alex/Downloads/AutoCellLibX/AutoCellLibX/stdCelllib/cellsAstranFriendly.sp"
+cellgen select AND2X1
+SET GRID 0.035 0.035
+SET ROWHEIGHT 40
+SET NWELLPOS 0.70
+cellgen autoflow 2
+export layout AND2X1 /home/alex/Downloads/AutoCellLibX/AutoCellLibX/stdCelllib/AND2X1_zc_40.gds
+exit
+
+COMPLEX3:
+set lpsolve "/home/alex/Downloads/gurobi952/linux64/bin/gurobi_cl"
+load technology "/home/alex/astran/Astran/build/Work/tech_freePDK45.rul"
+load netlist "/home/alex/Downloads/AutoCellLibX/AutoCellLibX/pySrc/results/tc_003_arthmetic_divisor/COMPLEX3.sp"
+cellgen select COMPLEX3
+cellgen autoflow
+export layout COMPLEX3 /home/alex/Downloads/AutoCellLibX/AutoCellLibX/pySrc/results/tc_003_arthmetic_divisor/COMPLEX3_zc.gds
+exit
+
+COMPLEX22:
+set lpsolve "/home/alex/Downloads/gurobi952/linux64/bin/gurobi_cl"
+load technology "/home/alex/astran/Astran/build/Work/tech_freePDK45.rul"
+load netlist "/home/alex/Downloads/AutoCellLibX/AutoCellLibX/pySrc/results/tc_l4_0409/COMPLEX22.sp"
+cellgen select COMPLEX22
+cellgen autoflow
+export layout COMPLEX22 /home/alex/Downloads/AutoCellLibX/AutoCellLibX/pySrc/results/tc_l4_0409/COMPLEX22_zc.gds
+exit
+
+NewCOMPLEX1:
+set lpsolve "/home/alex/Downloads/gurobi952/linux64/bin/gurobi_cl"
+load technology "/home/alex/astran/Astran/build/Work/tech_freePDK45.rul"
+load netlist "/home/alex/astran/Astran/build/bin/ComplexCells/COMPLEX1.sp"
+cellgen select COMPLEX1
+SET GRID 0.20 0.20
+SET ROWHEIGHT 7
+cellgen autoflow 2
+export layout COMPLEX1 /home/alex/astran/Astran/build/bin/ComplexCells/Output/COMPLEX1_zc_7.gds
+exit
+
+
+SET ROWHEIGHT <int_Value>
+SET NWELLPOS <float_Value>
+SET GRID <float_HPitch> <float_VPitch>
+SET GRID 0.0875 0.0875
+SET ROWHEIGHT 16
+SET SUPPLYSIZE 0.17
+EXPORT CELLSIZES <str_Path> EXPORT CELLSIZES "/home/alex/astran/Astran/build/bin/ComplexCells/Output/CELLSIZES.est"

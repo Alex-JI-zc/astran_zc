@@ -1,0 +1,6 @@
+LOG2_COMPLEX14_06W 140 0.65      0 x 0       0
+
+LOG2_COMPLEX14_06W 280 0.65      0 x 0       0
+
+LOG2_COMPLEX14_06W 560 0.65      0 x 0       0
+

@@ -1,0 +1,91 @@
+set lpsolve "/home/alex/Downloads/gurobi952/linux64/bin/gurobi_cl"
+load technology "/home/alex/astran/Astran/build/Work/tech_freePDK45.rul"
+load netlist "/home/alex/astran/Astran/build/bin/COMPLEX1.sp"
+cellgen select COMPLEX1
+SET GRID 0.0100 0.0100
+SET ROWHEIGHT 140
+SET NWELLPOS 0.70
+cellgen autoflow 2
+export layout COMPLEX1 /home/alex/astran/Astran/build/bin/Output/COMPLEX1_140_0.70.gds
+
+set lpsolve "/home/alex/Downloads/gurobi952/linux64/bin/gurobi_cl"
+load technology "/home/alex/astran/Astran/build/Work/tech_freePDK45.rul"
+load netlist "/home/alex/astran/Astran/build/bin/COMPLEX1.sp"
+cellgen select COMPLEX1
+SET GRID 0.0050 0.0050
+SET ROWHEIGHT 280
+SET NWELLPOS 0.70
+cellgen autoflow 2
+export layout COMPLEX1 /home/alex/astran/Astran/build/bin/Output/COMPLEX1_280_0.70.gds
+
+set lpsolve "/home/alex/Downloads/gurobi952/linux64/bin/gurobi_cl"
+load technology "/home/alex/astran/Astran/build/Work/tech_freePDK45.rul"
+load netlist "/home/alex/astran/Astran/build/bin/COMPLEX1.sp"
+cellgen select COMPLEX1
+SET GRID 0.0025 0.0025
+SET ROWHEIGHT 560
+SET NWELLPOS 0.70
+cellgen autoflow 2
+export layout COMPLEX1 /home/alex/astran/Astran/build/bin/Output/COMPLEX1_560_0.70.gds
+
+set lpsolve "/home/alex/Downloads/gurobi952/linux64/bin/gurobi_cl"
+load technology "/home/alex/astran/Astran/build/Work/tech_freePDK45.rul"
+load netlist "/home/alex/astran/Astran/build/bin/COMPLEX1.sp"
+cellgen select COMPLEX1
+SET GRID 0.0100 0.0100
+SET ROWHEIGHT 140
+SET NWELLPOS 0.65
+cellgen autoflow 2
+export layout COMPLEX1 /home/alex/astran/Astran/build/bin/Output/COMPLEX1_140_0.65.gds
+
+set lpsolve "/home/alex/Downloads/gurobi952/linux64/bin/gurobi_cl"
+load technology "/home/alex/astran/Astran/build/Work/tech_freePDK45.rul"
+load netlist "/home/alex/astran/Astran/build/bin/COMPLEX1.sp"
+cellgen select COMPLEX1
+SET GRID 0.0050 0.0050
+SET ROWHEIGHT 280
+SET NWELLPOS 0.65
+cellgen autoflow 2
+export layout COMPLEX1 /home/alex/astran/Astran/build/bin/Output/COMPLEX1_280_0.65.gds
+
+set lpsolve "/home/alex/Downloads/gurobi952/linux64/bin/gurobi_cl"
+load technology "/home/alex/astran/Astran/build/Work/tech_freePDK45.rul"
+load netlist "/home/alex/astran/Astran/build/bin/COMPLEX1.sp"
+cellgen select COMPLEX1
+SET GRID 0.0025 0.0025
+SET ROWHEIGHT 560
+SET NWELLPOS 0.65
+cellgen autoflow 2
+export layout COMPLEX1 /home/alex/astran/Astran/build/bin/Output/COMPLEX1_560_0.65.gds
+
+set lpsolve "/home/alex/Downloads/gurobi952/linux64/bin/gurobi_cl"
+load technology "/home/alex/astran/Astran/build/Work/tech_freePDK45.rul"
+load netlist "/home/alex/astran/Astran/build/bin/COMPLEX1.sp"
+cellgen select COMPLEX1
+SET GRID 0.0100 0.0100
+SET ROWHEIGHT 140
+SET NWELLPOS 0.75
+cellgen autoflow 2
+export layout COMPLEX1 /home/alex/astran/Astran/build/bin/Output/COMPLEX1_140_0.75.gds
+
+set lpsolve "/home/alex/Downloads/gurobi952/linux64/bin/gurobi_cl"
+load technology "/home/alex/astran/Astran/build/Work/tech_freePDK45.rul"
+load netlist "/home/alex/astran/Astran/build/bin/COMPLEX1.sp"
+cellgen select COMPLEX1
+SET GRID 0.0050 0.0050
+SET ROWHEIGHT 280
+SET NWELLPOS 0.75
+cellgen autoflow 2
+export layout COMPLEX1 /home/alex/astran/Astran/build/bin/Output/COMPLEX1_280_0.75.gds
+
+set lpsolve "/home/alex/Downloads/gurobi952/linux64/bin/gurobi_cl"
+load technology "/home/alex/astran/Astran/build/Work/tech_freePDK45.rul"
+load netlist "/home/alex/astran/Astran/build/bin/COMPLEX1.sp"
+cellgen select COMPLEX1
+SET GRID 0.0025 0.0025
+SET ROWHEIGHT 560
+SET NWELLPOS 0.75
+cellgen autoflow 2
+export layout COMPLEX1 /home/alex/astran/Astran/build/bin/Output/COMPLEX1_560_0.75.gds
+
+exit

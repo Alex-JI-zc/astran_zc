@@ -1,0 +1,18 @@
+MEM_COMPLEX4_06W 140 0.7      0.72 x 1.4       1.008
+
+MEM_COMPLEX4_06W 280 0.7      0.72 x 1.4       1.008
+
+MEM_COMPLEX4_06W 560 0.7      0.72 x 1.4       1.008
+
+MEM_COMPLEX4_06W 140 0.65      0.72 x 1.4       1.008
+
+MEM_COMPLEX4_06W 280 0.65      0.72 x 1.4       1.008
+
+MEM_COMPLEX4_06W 560 0.65      0.72 x 1.4       1.008
+
+MEM_COMPLEX4_06W 140 0.75      0.72 x 1.4       1.008
+
+MEM_COMPLEX4_06W 280 0.75      0.72 x 1.4       1.008
+
+MEM_COMPLEX4_06W 560 0.75      0.72 x 1.4       1.008
+

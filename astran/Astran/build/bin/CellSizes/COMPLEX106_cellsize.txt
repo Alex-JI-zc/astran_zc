@@ -1,0 +1,278 @@
+COMPLEX106 7 0.7      4.4 x 1.4
+
+COMPLEX106 10 0.7      0 x 0
+
+COMPLEX106 14 0.7      4.2 x 1.4
+
+COMPLEX106 20 0.7      4.2 x 1.4
+
+COMPLEX106 28 0.7      0 x 0
+
+COMPLEX106 35 0.7      4.16 x 1.4
+
+COMPLEX106 70 0.7      4.14 x 1.4
+
+COMPLEX106 140 0.7      4.14 x 1.4
+
+COMPLEX106 7 0.65      0 x 0
+
+COMPLEX106 10 0.65      4.2 x 1.4
+
+COMPLEX106 14 0.65      0 x 0
+
+COMPLEX106 20 0.65      0 x 0
+
+COMPLEX106 28 0.65      0 x 0
+
+COMPLEX106 35 0.65      0 x 0
+
+COMPLEX106 70 0.65      0 x 0
+
+COMPLEX106 140 0.65      0 x 0
+
+COMPLEX106 7 0.75      4.4 x 1.4
+
+COMPLEX106 10 0.75      0 x 0
+
+COMPLEX106 14 0.75      0 x 0
+
+COMPLEX106 20 0.75      4.2 x 1.4
+
+COMPLEX106 28 0.75      4.15 x 1.4
+
+COMPLEX106 35 0.75      4.16 x 1.4
+
+COMPLEX106 70 0.75      4.14 x 1.4
+
+COMPLEX106 140 0.75      4.14 x 1.4
+
+COMPLEX106 7 0.6      0 x 0
+
+COMPLEX106 10 0.6      0 x 0
+
+COMPLEX106 14 0.6      0 x 0
+
+COMPLEX106 20 0.6      0 x 0
+
+COMPLEX106 28 0.6      0 x 0
+
+COMPLEX106 35 0.6      0 x 0
+
+COMPLEX106 70 0.6      0 x 0
+
+COMPLEX106 140 0.6      0 x 0
+
+COMPLEX106 7 0.8      0 x 0
+
+COMPLEX106 10 0.8      5.88 x 1.4
+
+COMPLEX106 14 0.8      0 x 0
+
+COMPLEX106 20 0.8      0 x 0
+
+COMPLEX106 28 0.8      0 x 0
+
+COMPLEX106 35 0.8      0 x 0
+
+COMPLEX106 70 0.8      0 x 0
+
+COMPLEX106 140 0.8      0 x 0
+===========================================
+COMPLEX106 7 0.7      4.2 x 1.4       5.88
+
+COMPLEX106 10 0.7      4.34 x 1.4       6.076
+
+COMPLEX106 14 0.7      4.2 x 1.4       5.88
+
+COMPLEX106 20 0.7      4.2 x 1.4       5.88
+
+COMPLEX106 28 0.7      4.15 x 1.4       5.81
+
+COMPLEX106 35 0.7      4.16 x 1.4       5.824
+
+COMPLEX106 70 0.7      4.14 x 1.4       5.796
+
+COMPLEX106 140 0.7      4.14 x 1.4       5.796
+
+COMPLEX106 280 0.7      4.14 x 1.4       5.796
+
+COMPLEX106 7 0.65      3.4 x 1.4       4.76
+
+COMPLEX106 10 0.65      0 x 0       0
+
+COMPLEX106 14 0.65      0 x 0       0
+
+COMPLEX106 20 0.65      3.36 x 1.4       4.704
+
+COMPLEX106 28 0.65      3.35 x 1.4       4.69
+
+COMPLEX106 35 0.65      3.32 x 1.4       4.648
+
+COMPLEX106 70 0.65      3.32 x 1.4       4.648
+
+COMPLEX106 140 0.65      3.32 x 1.4       4.648
+
+COMPLEX106 280 0.65      3.315 x 1.4       4.641
+
+COMPLEX106 7 0.75      4.2 x 1.4       5.88
+
+COMPLEX106 10 0.75      4.2 x 1.4       5.88
+
+COMPLEX106 14 0.75      4.2 x 1.4       5.88
+
+COMPLEX106 20 0.75      4.2 x 1.4       5.88
+
+COMPLEX106 28 0.75      4.15 x 1.4       5.81
+
+COMPLEX106 35 0.75      4.16 x 1.4       5.824
+
+COMPLEX106 70 0.75      4.14 x 1.4       5.796
+
+COMPLEX106 140 0.75      4.14 x 1.4       5.796
+
+COMPLEX106 280 0.75      4.14 x 1.4       5.796
+
+COMPLEX106 7 0.6      3.4 x 1.4       4.76
+
+COMPLEX106 10 0.6      0 x 0       0
+
+COMPLEX106 14 0.6      3.4 x 1.4       4.76
+
+COMPLEX106 20 0.6      3.36 x 1.4       4.704
+
+COMPLEX106 28 0.6      3.3 x 1.4       4.62
+
+COMPLEX106 35 0.6      3.28 x 1.4       4.592
+
+COMPLEX106 70 0.6      0 x 0       0
+
+COMPLEX106 140 0.6      0 x 0       0
+
+COMPLEX106 280 0.6      0 x 0       0
+
+COMPLEX106 7 0.8      4.4 x 1.4       6.16
+
+COMPLEX106 10 0.8      4.2 x 1.4       5.88
+
+COMPLEX106 14 0.8      4.2 x 1.4       5.88
+
+COMPLEX106 20 0.8      0 x 0       0
+
+COMPLEX106 28 0.8      0 x 0       0
+
+COMPLEX106 35 0.8      4.16 x 1.4       5.824
+
+COMPLEX106 70 0.8      0 x 0       0
+
+COMPLEX106 140 0.8      0 x 0       0
+
+COMPLEX106 280 0.8      4.14 x 1.4       5.796
+
+COMPLEX106 7 0.55      0 x 0       0
+
+COMPLEX106 10 0.55      0 x 0       0
+
+COMPLEX106 14 0.55      0 x 0       0
+
+COMPLEX106 20 0.55      0 x 0       0
+
+COMPLEX106 28 0.55      0 x 0       0
+
+COMPLEX106 35 0.55      0 x 0       0
+
+COMPLEX106 70 0.55      0 x 0       0
+
+COMPLEX106 140 0.55      0 x 0       0
+
+COMPLEX106 280 0.55      0 x 0       0
+======================================
+COMPLEX106 7 0.7      0 x 0       0
+
+COMPLEX106 10 0.7      3.22 x 1.4       4.508
+
+COMPLEX106 14 0.7      0 x 0       0
+
+COMPLEX106 20 0.7      0 x 0       0
+
+COMPLEX106 28 0.7      0 x 0       0
+
+COMPLEX106 35 0.7      3.08 x 1.4       4.312
+
+COMPLEX106 70 0.7      3.08 x 1.4       4.312
+
+COMPLEX106 140 0.7      0 x 0       0
+
+COMPLEX106 280 0.7      3.075 x 1.4       4.305
+
+COMPLEX106 7 0.65      0 x 0       0
+
+COMPLEX106 10 0.65      0 x 0       0
+
+COMPLEX106 14 0.65      0 x 0       0
+
+COMPLEX106 20 0.65      0 x 0       0
+
+COMPLEX106 28 0.65      0 x 0       0
+
+COMPLEX106 35 0.65      0 x 0       0
+
+COMPLEX106 70 0.65      0 x 0       0
+
+COMPLEX106 140 0.65      0 x 0       0
+
+COMPLEX106 280 0.65      0 x 0       0
+
+COMPLEX106 7 0.75      0 x 0       0
+
+COMPLEX106 10 0.75      3.22 x 1.4       4.508
+
+COMPLEX106 14 0.75      3.1 x 1.4       4.34
+
+COMPLEX106 20 0.75      3.08 x 1.4       4.312
+
+COMPLEX106 28 0.75      3.1 x 1.4       4.34
+
+COMPLEX106 35 0.75      3.08 x 1.4       4.312
+
+COMPLEX106 70 0.75      3.08 x 1.4       4.312
+
+COMPLEX106 140 0.75      3.08 x 1.4       4.312
+
+COMPLEX106 280 0.75      3.075 x 1.4       4.305
+
+COMPLEX106 7 0.6      0 x 0       0
+
+COMPLEX106 10 0.6      0 x 0       0
+
+COMPLEX106 14 0.6      0 x 0       0
+
+COMPLEX106 20 0.6      0 x 0       0
+
+COMPLEX106 28 0.6      0 x 0       0
+
+COMPLEX106 35 0.6      0 x 0       0
+
+COMPLEX106 70 0.6      0 x 0       0
+
+COMPLEX106 140 0.6      0 x 0       0
+
+COMPLEX106 280 0.6      0 x 0       0
+
+COMPLEX106 7 0.8      3.2 x 1.4       4.48
+
+COMPLEX106 10 0.8      3.08 x 1.4       4.312
+
+COMPLEX106 14 0.8      3.1 x 1.4       4.34
+
+COMPLEX106 20 0.8      3.08 x 1.4       4.312
+
+COMPLEX106 28 0.8      3.1 x 1.4       4.34
+
+COMPLEX106 35 0.8      3.08 x 1.4       4.312
+
+COMPLEX106 70 0.8      3.08 x 1.4       4.312
+
+COMPLEX106 140 0.8      3.08 x 1.4       4.312
+
+COMPLEX106 280 0.8      3.075 x 1.4       4.305
+
